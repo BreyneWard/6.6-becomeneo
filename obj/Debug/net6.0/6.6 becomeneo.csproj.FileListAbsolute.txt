@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6 becomeneo\bin\Debug\net6.0\6.6 becomeneo.exe
+D:\multimedi\Cscherp\6.6 becomeneo\bin\Debug\net6.0\6.6 becomeneo.deps.json
+D:\multimedi\Cscherp\6.6 becomeneo\bin\Debug\net6.0\6.6 becomeneo.runtimeconfig.json
+D:\multimedi\Cscherp\6.6 becomeneo\bin\Debug\net6.0\6.6 becomeneo.dll
+D:\multimedi\Cscherp\6.6 becomeneo\bin\Debug\net6.0\6.6 becomeneo.pdb
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.dll
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\refint\6.6 becomeneo.dll
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.pdb
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\6.6 becomeneo.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6 becomeneo\obj\Debug\net6.0\ref\6.6 becomeneo.dll
